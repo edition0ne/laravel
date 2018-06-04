@@ -11,7 +11,7 @@
 |
 */
 //Custom routes
-Route::get('/test','NavigationController@testPage');
+//Route::get('/test','NavigationController@testPage');
 
 //fontion pour rediriger une page
 Route::get('/testpage','NavigationController@showPage');

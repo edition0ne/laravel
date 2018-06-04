@@ -1,5 +1,4 @@
 @extends('template')
-@section('title', 'Information')
 @section('content')
-  <h1>Contact</h1>
+  <h1>Acceuil</h1>
 @endsection
